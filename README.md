@@ -57,7 +57,7 @@ reddit-discord-sync/
 ├── .env.sample                 # Sample env file
 ├── requirements.txt            # Python dependencies
 ├── .gitignore                  # Files to exclude from git
-├── LICENSE                    # MIT License
+├── LICENSE                    v# MIT License
 └── README.md                   # You’re reading it!
 ```
 
