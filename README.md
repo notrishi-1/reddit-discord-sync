@@ -22,7 +22,7 @@ Simulates Reddit user behavior by retrieving top-level comments and embedding th
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/notrishi-1/reddit-discord-sync.git
+git clone https://github.com/notrishi-1/Reddit-discord-sync.git
 cd reddit-forum-bot
 ```
 ### 2. Install Requirements
