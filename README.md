@@ -41,7 +41,6 @@ REDDIT_USER_AGENT=your_user_agent
 DISCORD_TOKEN=your_discord_bot_token
 DISCORD_FORUM_CHANNEL_ID=123456789012345678
 ```
-⚠️ Never commit your .env file — it's in .gitignore.
 
 ### 4. Run the Bot
 ```bash
@@ -57,7 +56,7 @@ reddit-discord-sync/
 ├── .env.sample                 # Sample env file
 ├── requirements.txt            # Python dependencies
 ├── .gitignore                  # Files to exclude from git
-├── LICENSE                    v# MIT License
+├── LICENSE                     # MIT License
 └── README.md                   # You’re reading it!
 ```
 
